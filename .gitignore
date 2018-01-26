@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+/vendor
+/storage/debugbar/
+/storage/logs/
+/storage/uploads/
+/.idea
+.env
+/nbproject/private/
